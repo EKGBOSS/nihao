@@ -4,4 +4,9 @@ div {
 p {
   font-family: Verdana;
   font-size: 30px;
+  color: aqua;
+  text-align: center;
+  background-color: brown;
 }
+
+/* Coment */
