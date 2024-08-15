@@ -38,3 +38,20 @@ div.sticky {
   background-color: #cae8ca;
   border: 2px solid #4CAF50;
 }
+
+.container {
+  position: relative;
+}
+
+.topleft {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 18px;
+}
+
+img { 
+  width: 100%;
+  height: auto;
+  opacity: 0.3;
+}
